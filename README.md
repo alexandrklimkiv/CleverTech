@@ -1,2 +1,0 @@
-# CleverTech
-Web Site
